@@ -16,7 +16,10 @@
     "paths": {
       "@/*": [
         "src/*"
-      ]
+      ],
+      // "plotly.js": [
+      //   "./node_modules/plotly.js/dist/*"
+      // ]
     }
   },
   "include": [
